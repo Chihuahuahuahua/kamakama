@@ -1,4 +1,7 @@
 @media(max-width:670px){
+	body{
+	width:100%;
+	}
 
 	footer{
 		text-align:center;
