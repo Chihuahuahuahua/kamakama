@@ -1,4 +1,7 @@
 @media(max-width:670px){
+	li{
+	width:70%;
+	}
 
 	footer{
 		text-align:center;
