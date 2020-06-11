@@ -1,0 +1,14 @@
+@media(max-width:670px){
+	ol{
+		width:50%;
+	}
+	footer{
+		text-align:center;
+	}
+	h3{
+		font-size:20px;
+	}
+	li{
+		font-size:14px;
+	}
+	)
