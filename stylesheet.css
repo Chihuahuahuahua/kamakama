@@ -3,11 +3,15 @@
 }
 
 
+
 .main{
 padding:0 10px;
-line-height:30px
 }
 
 .main ol{
 	padding-left:50px;
+}
+
+.main li{
+	padding-bottom:10px;
 }
